@@ -1,0 +1,68 @@
+*{
+    padding: 0rem;
+  }
+  h1{
+    text-align: center;
+    padding: 1rem;
+    font-size: 2.5rem;
+  }
+  .description{
+    text-align: center;
+    font-size: 1.7rem;
+    text-decoration: none;
+    font-weight: bolder; 
+  
+  }
+  div{
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
+  input{
+    text-align: center;
+    font-size: 2rem;
+  }
+  .descriptionn{
+    color: #1E40AF;
+    font-weight: bolder;
+    font-size: 1.7rem;
+  }
+  button{
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    margin: 8px 2px;
+    padding: 20px;
+    background-color: #1E40AF;
+    color: yellow;
+  }
+  .para{
+    font-size: 1.8rem;
+    font-weight: bolder;
+  
+  }
+  .hy{
+    font-size: 1.7rem;
+     
+  
+  
+  }
+  .hyy{
+    font-size: 1.7rem;
+     color:#1E40AF;
+    
+  }
+  .span{
+    color:#1E40AF;
+  }
+  main{
+    background-color: black;
+    background-image: linear-gradient(to bottom right,#FECACA, #FDE68A); 
+    padding: 1rem;
+    text-align: center;
+  }
